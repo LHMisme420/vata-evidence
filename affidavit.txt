@@ -1,0 +1,19 @@
+﻿AFFIDAVIT OF EVIDENCE SUBMISSION (VATA)
+
+I, Leroy H. Mason, creator of VATA, submit this affidavit as a public cryptographic record.
+
+SOURCE RECEIPT:
+C:\Users\lhmsi\Desktop\vata-demo\out\liedetect_mainnet_20260224_051405\MAINNET_LIE_RECEIPT.md
+
+MASTER_EVIDENCE_ROOT:
+0x72441a76815d7b0ecce21348340419ecfd3e143b2c1552e5f32718ca983640e4
+
+Included roots (from receipt):
+CLAIM_HASH     -> CLAIM_ZK: 0xa451e2e06ed95cab7548d731d9865eed168228912a440a4b660f08eda08fa3b7
+FP_ROOT        -> FP_ZK:    0xc27822510111bd495fe4b5e8afe599727f8174dfe56fcaf48dab1406e7832b0c
+LIE_PROOF_HASH -> LIE_ZK:   0x05bdd2dc36eb4efdfea7da40e251bcdcdbb387db742ed2d20f73db6c9e7927ee
+FINAL_ROOT     -> FINAL_ZK: 0x653061a9dfbd0d09d20a1309bc863536e34c0724a5211b97dced15212e76372b
+
+Signed,
+Leroy H. Mason
+Date (UTC): 2026-02-24T12:12:22Z

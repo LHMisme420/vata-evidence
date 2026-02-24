@@ -1,0 +1,9 @@
+﻿RECEIPT_FILE:         C:\Users\lhmsi\Desktop\vata-demo\out\liedetect_mainnet_20260224_051405\MAINNET_LIE_RECEIPT.md
+MASTER_EVIDENCE_ROOT: 0x72441a76815d7b0ecce21348340419ecfd3e143b2c1552e5f32718ca983640e4
+AFFIDAVIT_SHA256:     0x8e586eb17916660f05677ea2ecc2158d7250133108273b418274d6e8b8db9670
+FINAL_PACKAGE:        0x2976115c0260afd1693424661ed1a743686ae6d6f46f069e2d1fa85ee213b726
+FINAL_PACKAGE_FILE:   C:\Users\lhmsi\Desktop\evidence_out\final_package.txt
+PACKAGE_ID:           5
+CONTRACT:             0x7edDCa72D3d8FcD19B21cEC191D1B61d652C3691
+RPC:                  https://ethereum.publicnode.com
+LEAF_COUNT:           6
